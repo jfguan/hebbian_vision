@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+data/
+checkpoints/
+*.pt
+uv.lock
+deit_run.log
